@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sports</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_my_timer">MyTimer</string>
+    <string name="title_activity_displayresult">displayresult</string>
+    <string name="title_activity_eventname">Eventname</string>
+    <string name="title_activity_gender">Gender</string>
+    <string name="select">Select_event</string>
+    <string name="select1">Select_tournament</string>
+    <string name="button_label">Submit</string>
+
+    <string-array name="Select_event">
+        <item>100mtrs_Male</item>
+        <item>100mtrs_Female</item>
+        <item>200mtrs_Male</item>
+        <item>200mtrs_Female</item>
+        <item>400mtrs_Male</item>
+        <item>400mtrs_Female</item>
+        <item>800mtrs_Male</item>
+        <item>800mtrs_Female</item>
+        <item>1500mtrs_Male</item>
+        <item>1500mtrs_Female</item>
+        <item>3000mtrs_Male</item>
+        <item>3000mtrs_Female</item>
+    </string-array>
+    <string-array name="Select_tournament"></string-array>
+    <string-array name="Select_lane">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string name="title_activity_player_details">Player_details</string>
+
+</resources>
